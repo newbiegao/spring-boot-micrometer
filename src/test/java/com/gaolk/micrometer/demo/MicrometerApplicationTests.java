@@ -11,6 +11,7 @@ public class MicrometerApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
 	}
 
 }

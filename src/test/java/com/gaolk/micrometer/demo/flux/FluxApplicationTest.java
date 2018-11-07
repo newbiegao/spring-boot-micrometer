@@ -73,6 +73,7 @@ public class FluxApplicationTest {
 
 
     /**
+     * 同步代码访问
      *
      */
     @Test
